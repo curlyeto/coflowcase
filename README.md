@@ -1,5 +1,6 @@
 # coflowcase
 
+This project is a case project given by coflow company. In the project, the backend side is written in lavarel and the application side is written with flutter. You can find the Lavarel project files under the `laravel-restapi / coflowcase` directory. 
 
 ## **ScreenShots**
 
